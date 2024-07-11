@@ -1,0 +1,21 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto integrador backend con Node.js y MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bson": "^1.1.6",
+    "express": "^4.19.2",
+    "express-validator": "^6.10.0",
+    "mongodb": "^3.7.4",
+    "mongoose": "^5.11.15",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
